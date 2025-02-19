@@ -27,52 +27,7 @@ const playList = [
             cover: 'assets/image/hrydayatVajeSomething.jpeg',
             artist: 'Seeking you',
             musicPath: 'assets/audio/hrydayat vaje something.m4a'
-        },{
-            musicName: 'Tum Bin',
-            cover: 'assets/image/tumMIle.jpeg',
-            artist: 'Before you, My world was Silent',
-            musicPath: 'assets/audio/Tum Mile - Tum Mile 320 Kbps (mp3cut.net) (1).mp3'
-        }, {
-            musicName: 'Dilkashi',
-            cover: 'assets/image/raanjhana.jpeg',
-            artist: 'The First Glimpse',
-            musicPath: 'assets/audio/raanjhanaa_theme.mp3'
-        }, {
-            musicName: 'Tum Tak',
-            cover: 'assets/image/tumTak.jpeg',
-            artist: 'Ranjhanaa',
-            musicPath: 'assets/audio/Tum Tak - Raanjhanaa 320 Kbps (mp3cut.net).mp3'
-        }, {
-            musicName: 'Diwangi',
-            cover: 'assets/image/teraFitoor.jpeg',
-            artist: 'Secretly Falling for you',
-            musicPath: 'assets/audio/Tera Fitoor Genius 320 Kbps (mp3cut.net).mp3'
-        }, {
-            musicName: 'स्वप्नरंग',
-            cover: 'assets/image/chimbBhijlele.jpg',
-            artist: 'Love in a Monsoon Melody',
-            musicPath: 'assets/audio/Chimb-Bhijlele (mp3cut.net).mp3'
-        }, {
-            musicName: 'खुलता कळी खुलेना',
-            cover: 'assets/image/khultaKali.jpg',
-            artist: 'Confusion & Emotional Struggle',
-            musicPath: 'assets/audio/Khulta-Kali-Khulena (mp3cut.net).mp3'
-        }, {
-            musicName: 'अव्यक्त',
-            cover: 'assets/image/tuhire.jpeg',
-            artist: 'More than Friendship?',
-            musicPath: 'assets/audio/tu hi re maza mitwa.m4a'
-        }, {
-            musicName: 'प्रेम',
-            cover: 'assets/image/tumala.jpg',
-            artist: 'Realizing Love❤️',
-            musicPath: 'assets/audio/Tu Mala Mi Tula  Lyrical  Marathi Lyrics (mp3cut.net).mp3'
-        }, {
-            musicName: 'माझ्या संस्कृतीला प्रीत कळेना',
-            cover: 'assets/image/maztapreyala.jpg',
-            artist: 'The Struggle to Express',
-            musicPath: 'assets/audio/Maziya Priyala Preet Kalena Full Song(Rare,Original) (mp3cut.net).mp3'
-        }];
+        },];
 
         
 
